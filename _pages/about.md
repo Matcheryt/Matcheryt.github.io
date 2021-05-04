@@ -6,4 +6,4 @@ author_profile: false
 ---
 
 Page under construction!
-![](./assets/images/informative/under-construction.svg)
+![](/../assets/images/informative/under-construction.svg)
