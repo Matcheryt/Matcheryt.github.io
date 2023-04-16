@@ -69,15 +69,15 @@ author:
   bio    : "Developer and tech enthusiast."
   email: "contact@telmoduarte.me"
   links:
-    - label: "PGP"
-      icon: "fas fa-fw fa-key"
-      url: "https://keys.openpgp.org/search?q=contact%40telmoduarte.me"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/telmo-quintas-duarte/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Matcheryt"
+    - label: "PGP"
+      icon: "fas fa-fw fa-key"
+      url: "https://keys.openpgp.org/search?q=contact%40telmoduarte.me"
 
 atom_feed:
   hide: true
